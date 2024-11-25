@@ -1,0 +1,5 @@
+print('olá, mundo')
+print('yara')
+print('gosto do jão')
+print('baby i wanna be a star')
+print('homem aranha')
